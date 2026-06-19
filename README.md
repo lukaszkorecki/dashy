@@ -7,6 +7,10 @@ documentation in `eww`.
 documentation. You pick a result with `completing-read` and it opens in
 `eww` — no leaving Emacs.
 
+## Demo
+
+<video src="assets/demo.mp4" controls></video>
+
 ## Requirements
 
 - Emacs 31.1+
@@ -21,12 +25,12 @@ Put `dashy.el` on your `load-path` and:
 (require 'dashy)
 ```
 
-Or with `use-package` and a local checkout:
+Or with `use-package`:
 
 ```elisp
 (use-package dashy
-  :load-path "/path/to/dashy"
-  :commands (dashy dashy-search dashy-at-point))
+  :ensure t
+  :vc (:url "https://github.com/lukaszkorecki/dashy"))
 ```
 
 ## Usage
