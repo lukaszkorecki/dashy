@@ -9,7 +9,7 @@ documentation. You pick a result with `completing-read` and it opens in
 
 ## Demo
 
-<video src="assets/demo.mp4" controls></video>
+<video src="https://github.com/lukaszkorecki/dashy/raw/refs/heads/main/assets/demo.mp4" controls></video>
 
 ## Requirements
 
