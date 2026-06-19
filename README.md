@@ -1,3 +1,6 @@
+
+
+
 # dashy
 
 Browse [Dash.app](https://kapeli.com/dash) docsets from Emacs, rendering
@@ -9,7 +12,8 @@ documentation. You pick a result with `completing-read` and it opens in
 
 ## Demo
 
-<video src="https://github.com/lukaszkorecki/dashy/raw/refs/heads/main/assets/demo.mp4" controls></video>
+https://github.com/user-attachments/assets/07abf2d6-ac78-4e94-8851-36d44a9b9a46
+
 
 ## Requirements
 
